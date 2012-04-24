@@ -1,0 +1,17 @@
+simple_mq_admin_generator:
+    title:       Simple Admin Generator
+    base_route:  administrator    
+
+    # actions:
+    #     list:    SimpleMQAdminBundle:CRUD:list.html.twig
+    #     show:    SimpleMQAdminBundle:CRUD:show.html.twig
+    #     edit:    SimpleMQAdminBundle:CRUD:edit.html.twig    
+    #     new:     SimpleMQAdminBundle:CRUD:new.html.twig      
+    #     create:  SimpleMQAdminBundle:CRUD:create.html.twig      
+    #     delete:  SimpleMQAdminBundle:CRUD:delete.html.twig      
+    #     update:  SimpleMQAdminBundle:CRUD:update.html.twig      
+        
+#    templates:
+#        # default global templates
+#        layout:  SimpleMQAdminBundle::standard_layout.html.twig
+#        ajax:    SimpleMQAdminBundle::ajax_layout.html.twig         

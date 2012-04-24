@@ -1,0 +1,12 @@
+/web/css
+/web/js
+/web/bundles/
+/app/cache/*
+/app/logs/*
+/vendor/
+/app/config/parameters.ini
+/app/config/security.yml
+admin.sublime-project
+admin.sublime-workspace
+/bundle
+/bundle/*
